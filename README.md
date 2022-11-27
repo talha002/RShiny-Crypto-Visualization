@@ -17,10 +17,12 @@ Volume: Movement of currency
 Close Ratio: Close-Low/High-Low
 
 Link of dataset:
+
 [https://www.kaggle.com/datasets/jessevent/all-crypto-currencies](https://www.kaggle.com/datasets/jessevent/all-crypto-currencie)
 
 
-Link of the visualization
+Link of the visualization:
+
 [https://talha-sahin.shinyapps.io/Cryptocurrency/](https://talha-sahin.shinyapps.io/Cryptocurrency/)
 
 Thank you for your interest. 
